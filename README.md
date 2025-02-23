@@ -1,1 +1,1 @@
-# 10-css-project
+# 10-HTML-CSS-project
